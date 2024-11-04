@@ -10,7 +10,7 @@
       "biography" : "Judged by the Ancestors as unworthy of entering Paradise, Tarnum wanders the land seeking redemption for the crimes of his past. He's the Immortal Hero, a timeless protector, but personally troubled by the doubt that he can ever make up for the tremendous wrongs he performed in his youth.",
       "specialty" :
       {
-        "description" : "All Dreadnoughts in Tarnum's army have also Acid Breath and Couatls can cast one additional Meditation spell.",
+        "description" : "All Dreadnoughts in Tarnum's army gain Acid Breath and Couatls can Meditate an additional time per combat.",
         "tooltip" : "Creature bonus: Dreadnoughts and Couatls",
         "name" : "Dreadnoughts/Couatls"
       }

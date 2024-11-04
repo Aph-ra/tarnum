@@ -11,16 +11,16 @@
       "biography" : "Judged by the Ancestors as unworthy of entering Paradise, Tarnum wanders the land seeking redemption for the crimes of his past. He's the Immortal Hero, a timeless protector, but personally troubled by the doubt that he can ever make up for the tremendous wrongs he performed in his youth.",
       "specialty" :
       {
-        "description" : "{Ballista}\r\n\r\nBonus to Balista for every experience level starting from fifth. Additionally Tarnum's Ballista ignores enemy defence by 50%",
-        "tooltip" : "Creature bonus: Ballista",
+        "description" : "Increases the Attack and Defense skills of any Ballista by 5% for every 5 levels (rounded up).",
+        "tooltip" : "Creature Bonus: Ballista",
         "name" : "Ballista"
       }
     },
 
     "images" :
     {
-      "specialtySmall" : "Tarnum/Knight/spec-small.bmp",
-      "specialtyLarge" : "Tarnum/Knight/spec-large.bmp",
+      "specialtyLarge" : "Tarnum/Knight/spec-large",
+      "specialtySmall" : "Tarnum/Knight/spec-small",
       "large" : "Tarnum/Knight/portrait-large.bmp",
       "small" : "Tarnum/Knight/portrait-small.bmp"
     },

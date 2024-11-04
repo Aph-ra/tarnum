@@ -11,16 +11,16 @@
       "biography" : "Tarnum is a young Barbarian who has spent his entire life under the oppression of the Wizard-Kings of Bracaduun, but he's always dreamed that life could be better - should be better.",
       "specialty" :
       {
-        "description" : "{Offence}\r\n\r\nReceives a 5% per level bonus to Offense skill percentage.",
-        "tooltip" : "Skill bonus: Offense.",
-        "name" : "Offence"
+        "description" : "Receives a 5% per level bonus to Offense skill percentage.",
+        "tooltip" : "Secondary Skill Bonus: Offense.",
+        "name" : "Offense"
       }
     },
 
     "images" :
     {
-      "specialtySmall" : "Tarnum/Barbarian/spec-small.bmp",
-      "specialtyLarge" : "Tarnum/Barbarian/spec-large.bmp",
+      "specialtySmall" : "Tarnum/Barbarian/spec-small",
+      "specialtyLarge" : "Tarnum/Barbarian/spec-large",
       "large" : "Tarnum/Barbarian/portrait-large.bmp",
       "small" : "Tarnum/Barbarian/portrait-small.bmp"
     },
