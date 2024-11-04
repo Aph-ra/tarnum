@@ -32,9 +32,9 @@
 			"biography" : "Waerjak was raised without a tribe and without a family, wandering the land with his foster father - Tarnum. But he never forgot his Barbarian blood. This intelligent and worldly young man now hopes to one day reclaim the long-forgotten glory and honor of his people.",
 			"name" : "Waerjak",
 			"specialty" : {
-				"description" : "{Slayer}\r\n\r\nAll units inf Waerjak's army are enchanted with Expert Slayer.",
+				"description" : "All units in Waerjak's army are enchanted with Expert Slayer.",
 				"name" : "Slayer",
-				"tooltip" : "Bonus: Slayer"
+				"tooltip" : "Passive Bonus: Slayer"
 			}
 		}
 	}
