@@ -4,7 +4,7 @@
 
    "author" : "marif, Hobbit, HotA Team", 
    "contact" : "http://forum.vcmi.eu/viewtopic.php?t=798", 
-   "version" : "1.2.0", 
+   "version" : "1.2.1", 
    "modType" : "Heroes",    
 	"compatibility" :
 	{
@@ -27,13 +27,21 @@
         "1.1.6" : [ "Updated chinese translation." ],
 		"1.1.7" : [ "Better submods compatibility system." ],
         "1.1.8" : [ "Czech translation by George King" ],
-		"1.2.0" : [ "Again new Tarnum! Now he's Mercenary in Factory town." ]	
+		"1.2.0" : [ "Again new Tarnum! Now he's Mercenary in Factory town." ],
+        "1.2.1" : [ "Polish translation by FallainBlack" ]	
      },
 	"german" : {
 		"name" : "Tarnum ist zurück!",
 		"description" : "Spielbarer Tarnum in all seinen bisherigen Inkarnationen (Ritter, Waldläufer, Barbar, Zauberer, Beastmaster und Overlord) sowie 3 neuen (Todesritter, Dämoniker und Gestaltwandler). Die meisten Grafiken wurden aus Heroes Chronicles, Heroes of Might and Magic 3 Complete oder Horn of the Abyss exportiert. Außerdem gibt es einige neue Tarnum-Inkarantionen für neue Mod-Städte. Überprüfen Sie sie selbst", 
 		"translations" : [
 			"translation/tarnum/german.json"
+		]
+	},
+	"polish" : {
+		"name" : "Tarnum powraca!",
+		"description" : "Grywalny Tarnum we wszystkich jego poprzednich wcieleniach (Rycerz, Łowca, Barbarzyńca, Czarodziej, Władca Bestii i Władca), a także 3 nowe (Rycerz Śmierci, Demoniak i Wędrowiec). Większość grafiki jest eksportowana z Heroes Chronicles, Heroes of Might and Magic 3 Complete lub Horn of the Abyss. Jest też kilka nowych inkarnacji Tarnum dla nowych modowych miast. Sprawdź je sam", 
+		"translations" : [
+			"translation/tarnum/polish.json"
 		]
 	},
 	"chinese" : {
@@ -49,7 +57,7 @@
 		"translations" : [
 			"translation/tarnum/czech.json"
 		]
-	},   
+	},    
 	"heroes" : 
      [ 
      "config/Tarnum/TarnumKnight.json", 
