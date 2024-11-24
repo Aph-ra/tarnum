@@ -73,7 +73,7 @@
 					"addInfo" : 20,
 					"limiters" : [
 						{
-							"parameters" : [ "hotaDread", true ],
+							"parameters" : [ "hotaDreadnought", true ],
 							"type" : "CREATURE_TYPE_LIMITER"
 						}
 					]
@@ -85,7 +85,7 @@
 					"val" : 100,
 					"limiters" : [
 						{
-							"parameters" : [ "hotaDread", true ],
+							"parameters" : [ "hotaDreadnought", true ],
 							"type" : "CREATURE_TYPE_LIMITER"
 						}
 					]
