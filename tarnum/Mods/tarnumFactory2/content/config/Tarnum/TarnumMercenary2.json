@@ -1,0 +1,72 @@
+{
+  "tarnumMercenary2" :
+  {
+    "class" : "unMercenary",
+    "female" : false,
+    "special" : false,
+    "texts" :
+    {
+      "name" : "Tarnum",
+      "biography" : "Judged by the Ancestors as unworthy of entering Paradise, Tarnum wanders the land seeking redemption for the crimes of his past. He's the Immortal Hero, a timeless protector, but personally troubled by the doubt that he can ever make up for the tremendous wrongs he performed in his youth.",
+      "specialty" :
+      {
+        "description" : "All Gunslingers, Bounty Hunters and Sheriffs have 5% chance of dealing double base damage when attacking a creature stack.",
+        "tooltip" : "Creature bonus: Gunslingers",
+        "name" : "Gunslingers"
+      }
+    },
+
+    "images" :
+    {
+      "specialtySmall" : "Tarnum/TarnumMercenary2/spec-small.png",
+      "specialtyLarge" : "Tarnum/TarnumMercenary2/spec-large.png",
+      "large" : "Tarnum/TarnumMercenary2/portrait-large.png",
+      "small" : "Tarnum/TarnumMercenary2/portrait-small.png"
+    },
+
+    "army" :
+    [
+      {
+        "creature" : "halfling",
+        "max" : 25,
+        "min" : 15
+      },
+      {
+        "creature" : "rogue",
+        "max" : 8,
+        "min" : 6
+      },
+      {
+        "creature" : "faArma",
+        "max" : 6,
+        "min" : 4
+      }
+    ],
+
+    "skills" :
+    [
+      {
+        "level" : "basic",
+        "skill" : "armorer"
+      },
+      {
+        "level" : "basic",
+        "skill" : "leadership"
+      }
+    ],
+		"specialty" : {
+			"bonuses" : {
+				"couatlCast" : {
+					"val" : 5,
+					"type" : "DOUBLE_DAMAGE_CHANCE",
+					"limiters" : [
+						{
+							"parameters" : [ "faGunslinger", true ],
+							"type" : "CREATURE_TYPE_LIMITER"
+						}
+					]
+				}				
+			}
+		}
+	}
+}

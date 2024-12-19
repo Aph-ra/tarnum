@@ -4,7 +4,7 @@
 
    "author" : "marif, Hobbit, HotA Team", 
    "contact" : "http://forum.vcmi.eu/viewtopic.php?t=798", 
-   "version" : "1.2.2", 
+   "version" : "1.2.3", 
    "modType" : "Heroes",    
 	"compatibility" :
 	{
@@ -29,7 +29,8 @@
         "1.1.8" : [ "Czech translation by George King" ],
 		"1.2.0" : [ "Again new Tarnum! Now he's Mercenary in Factory town." ],
         "1.2.1" : [ "Polish translation by FallainBlack" ],
-        "1.2.2" : [ "Added krs' changes to HotA to the Tarnum the Mercenary" ]		
+        "1.2.2" : [ "Added krs' changes to HotA to the Tarnum the Mercenary" ],
+		"1.2.3" : [ "Four new Tarnums for Refugee, Fairy, Retreat and Unofficial Factory town" ]		
      },
 	"german" : {
 		"name" : "Tarnum ist zurück!",
