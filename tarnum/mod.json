@@ -30,7 +30,8 @@
 		"1.2.0" : [ "Again new Tarnum! Now he's Mercenary in Factory town." ],
         "1.2.1" : [ "Polish translation by FallainBlack" ],
         "1.2.2" : [ "Added krs' changes to HotA to the Tarnum the Mercenary" ],
-		"1.2.3" : [ "Three new Tarnums for Refugee, Fairy and Retreat" ]		
+		"1.2.3" : [ "Three new Tarnums for Refugee, Fairy and Retreat" ],
+		"1.2.4" : [ "Again new Tarnum! Now he's Mercenary in Unofficial Factory town as well." ]
      },
 	"german" : {
 		"name" : "Tarnum ist zurück!",
